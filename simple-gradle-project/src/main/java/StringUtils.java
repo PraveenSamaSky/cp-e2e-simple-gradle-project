@@ -15,7 +15,7 @@ public class StringUtils {
 
 - Task 3
   We will have a list of 5 movies (Movie.java) class, which has got name and parentalGuideLevel fields.
-      Movie 1 -> Avengers,  Parental Guide-> "U"
+      Movie 1 -> Avengers,  Parental Guide-> U
       Movie 2 -> Titanic, Parental Guide -> 18+
       Movie 3 -> Cats, Parental Guide -> 10+
       Movie 4 -> Dolphin Reef , Parental Guide -> U
