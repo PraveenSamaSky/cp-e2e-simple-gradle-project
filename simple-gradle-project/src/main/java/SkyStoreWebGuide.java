@@ -15,8 +15,11 @@ public class SkyStoreWebGuide {
      Given the endpoint:
      https://www.skystore.com/api/web/v2/catalog/assets/top/<uuid>/<genre>
      Mandatory Header : x-api-key = l_web_sparrow
-     Headers : x-api-device-manufacturer=MAC OS
-     Headers : x-api-device-manufacturer=WINDOWS
+     x-api-user-agent:Web/5.69.0
+     x-api-device-model:Chrome
+     x-api-device-manufacturer:MAC OS
+     x-api-key:l_web_sparrow
+   
 
      Write a test case that
      1) Sends a GET request to the above API using
