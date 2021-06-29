@@ -14,7 +14,7 @@ public class SkyStoreWebGuide {
 
      Given the endpoint:
      https://www.skystore.com/api/web/v2/catalog/assets/top/<uuid>/<genre>
-     Mandatory Header : x-api-key = l_web_sparrow
+     Mandatory Headers
      x-api-user-agent:Web/5.69.0
      x-api-device-model:Chrome
      x-api-device-manufacturer:MAC OS
